@@ -22,7 +22,7 @@ This project connects marketplace communication workflows with a Telegram bot in
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/marketplace-chat-system.git
+git clone https://github.com/vscerbaks/marketplace-chat-system.git
 cd marketplace-chat-system
 
 pip install -r requirements.txt
