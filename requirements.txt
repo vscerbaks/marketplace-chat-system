@@ -1,0 +1,7 @@
+aiofiles
+aiogram
+bs4
+colorama
+playwright
+pydantic
+setuptools
